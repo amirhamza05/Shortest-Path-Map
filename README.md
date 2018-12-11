@@ -3,7 +3,8 @@ I make 2D city and this city have many store and every store connected multiple 
 
 # Screen Shot 
 
-![Screen Shot1](https://raw.githubusercontent.com/amirhamza05/Shortest-Path-Map/master/meterial/sortest_path1.PNG)
-![Screen Shot1](https://raw.githubusercontent.com/amirhamza05/Shortest-Path-Map/master/meterial/sortest_path.PNG)
-
+<img src="https://raw.githubusercontent.com/amirhamza05/Shortest-Path-Map/master/meterial/sortest_path.PNG">
+<p align="center"><b>Mark Shortest Path Between Two Store</b></p>
+<img src="https://raw.githubusercontent.com/amirhamza05/Shortest-Path-Map/master/meterial/sortest_path1.PNG">
+<p align="center"><b>2D City Map with Store and Road</b></p>
 
