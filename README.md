@@ -3,10 +3,10 @@ I make 2D city and this city have many store and every store connected multiple 
 # Language
 - Java Script
 - PHP
-- Html
-- css
+- HTML
+- CSS
 # Algorithm
-- Depth First Search(DFS)
+- Depth First Search (DFS)
 # Screen Shot 
 <img src="https://raw.githubusercontent.com/amirhamza05/Shortest-Path-Map/master/meterial/sortest_path.PNG">
 <p align="center"><b>2D City Map with Store and Road</b></p>
